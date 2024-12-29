@@ -1,35 +1,65 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-<h1 align="center">Hi 👋, I'm Yash Mittal</h1>
-<h3 align="center">
-Passionate web developer proficient in HTML, CSS, and JavaScript, driven by the desire to craft compelling and intuitive web interfaces. Eager to embrace new challenges in technology, I am actively seeking an entry-level position to further cultivate and expand my technical expertise.</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+## Greetings! ✨
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=geekyash10&label=Profile%20views&color=0e75b6&style=flat" alt="geekyash10" /> </p>
+Welcome to my GitHub profile! I'm **Yash Mittal**, a dedicated **MERN Stack developer** with a passion for creating impactful solutions and continuously expanding my skills in the ever-evolving world of technology.
 
-- 🌱 I’m currently learning **React , Backend**
+### A Glimpse into My World:
 
-- 💬 Ask me about **anything related to Frontend and related technologies**
+- 💬 Feel free to ask me about anything related to **Frontend Development**, **React**, or **Backend Technologies**. If I don't know the answer, I’ll be eager to learn with you!
+- 🔄 **Passion**: Exploring the world of web development and creating seamless, intuitive user experiences.
+- 🖋✨ **Hobbies**: Building projects, experimenting with new tech, and solving real-world problems.
+- 📧 **Contact**: Reach me at **mittalyas1234@gmail.com**.
 
-- 📫 How to reach me **mittalyas1234@gmail.com**
+---
 
-- ⚡ Fun fact **I also don't know**
-
-<h3 align="left">Connect with me:</h3>
-<hr>
+## 🌐 CONNECT WITH ME HERE:
 <p align="left">
-<a href="https://linkedin.com/in/yash mittal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash mittal" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mittalyas1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mittalyas1234" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mittalyas1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mittalyas1234" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yash-mittal-433307251/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Yash Mittal - LinkedIn" /></a>
+<a href="https://leetcode.com/u/mittalyas1234/" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="mittalyas1234 - LeetCode" /></a>
+<a href="https://codeforces.com/profile/mittalyas1234" target="blank"><img align="center" src="https://img.shields.io/badge/Codeforces-%23000000.svg?style=for-the-badge&logo=codeforces&logoColor=white" alt="Yash Mittal - Codeforces" /></a>
+<a href="https://yashmittal10.vercel.app/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Yash Mittal - Portfolio" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<hr>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<h3>GitHub Stats</h3>
-<hr>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=geekyash10&show_icons=true&locale=en&layout=compact" alt="geekyash10" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geekyash10&show_icons=true&locale=en" alt="geekyash10" /></p>
+## 🚀 Skills & Tools:
+<p align="left" margin-bottom="2rem">
+  
+  <img src="https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-%23000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-%23F1502F?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/SASS-%23CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" />
+  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Flask-%23000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/npm-%23CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+  
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geekyash10&" alt="geekyash10" /></p>
+
+
+---
+
+## 📊 GitHub Stats:
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=geekyash10&show_icons=true&locale=en)](https://github.com/geekyash10)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=geekyash10&)](https://github.com/geekyash10)
+
+---
+
+Thank you for visiting my profile! Let's connect and collaborate on exciting projects.
+
+
+
