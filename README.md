@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm **Yash Mittal**, a dedicated **MERN Stack deve
 - 🔄 **Passion**: Exploring the world of web development and creating seamless, intuitive user experiences.
 - 🖋✨ **Hobbies**: Building projects, experimenting with new tech, and solving real-world problems.
 - 📧 **Contact**: Reach me at **mittalyas1234@gmail.com**.
-- 📄 **Download my Resume**: [Resume](https://drive.google.com/file/d/1l3N8SquiAf7y901VxRkJfcwkosI4AmKa/view?usp=sharing)
+- 📄 **Download my Resume**: [Resume](https://drive.google.com/file/d/1Co0SpC2QC9vzCyTrLrEAcjAstOBxub3k/view?usp=drive_link)
 
 ---
 
