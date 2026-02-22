@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm **Yash Mittal**, a dedicated **MERN Stack deve
 <a href="https://www.linkedin.com/in/yash-mittal-433307251/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Yash Mittal - LinkedIn" /></a>
 <a href="https://leetcode.com/u/mittalyas1234/" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="mittalyas1234 - LeetCode" /></a>
 <a href="https://codeforces.com/profile/mittalyas1234" target="blank"><img align="center" src="https://img.shields.io/badge/Codeforces-%23000000.svg?style=for-the-badge&logo=codeforces&logoColor=white" alt="Yash Mittal - Codeforces" /></a>
-<a href="https://yashmittal10.vercel.app/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Yash Mittal - Portfolio" /></a>
+<a href="https://yashmittal-dev.vercel.app/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Yash Mittal - Portfolio" /></a>
 </p>
 
 
